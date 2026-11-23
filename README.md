@@ -28,15 +28,7 @@
 </p>
 
 > [!WARNING]
-> Chào mọi người!
->
-> Thông báo nhanh với cả nhà một chút: **Dự án Spark Linux 3.0 hiện đang tạm dừng.**
->
-> Vì đang học lớp 9 nên mình khá bận rộn với việc học và các kỳ thi, mình cần tạm gác lại dự án để ưu tiên cho việc học trước đã. Bản thử nghiệm mới nhất, Spark Linux 'eXcute' (sparkNext 20260611 AMD64 Developer Beta), vẫn đang mở để mọi người trải nghiệm, nhưng công việc phát triển phiên bản ổn định 3.0 chính thức thì đang tạm hoãn.
->
-> Dự án vẫn sẽ tiếp tục chứ không dừng hẳn đâu; mình sẽ quay lại hoàn thiện và tinh chỉnh mọi thứ ngay khi có thời gian rảnh.
->
-> Cảm ơn mọi người vẫn luôn ủng hộ mình nhé!
+> Đây là build arm64 của Spark Linux dành cho những máy như Snapdragon X,... ở branch này vẫn có thể sẽ thiếu driver, kernel support hoặc ổn định của máy chưa được đảm bảo, vui lòng không sử dụng phiên bản này như một hệ điều hành bình thường.
 
 ---
 
