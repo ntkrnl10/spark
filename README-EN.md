@@ -27,6 +27,17 @@
   <i>Simple. Efficient. Focused on user experience.</i>
 </p>
 
+> [!WARNING]
+> Hello everyone!
+>
+> A quick update for you all: **The Spark Linux 3.0 project is currently on hold.**
+>
+> As I am in the 9th grade, I am quite busy with my studies and exams; I need to set the project aside for now to prioritize my education. The latest test build, Spark Linux 'eXcute' (sparkNext 20260611 AMD64 Developer Beta), remains available for you to try out, but development on the official stable version 3.0 is temporarily paused.
+>
+> The project is not being abandoned—it will continue! I will return to refine and finalize everything as soon as I have some free time.
+>
+> Thank you all for your continued support!
+
 ---
 
 ## About
